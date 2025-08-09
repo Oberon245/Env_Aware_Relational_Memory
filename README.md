@@ -31,6 +31,9 @@ pip install -r requirements.txt
 # 3) Run the demo
 python .\demo_env_awareness.py
 ```
+## Quick start (Linux)
+
+## Quick start (MacOS)
 
 You should see output similar to:
 ```json
