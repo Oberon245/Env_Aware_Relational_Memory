@@ -33,7 +33,7 @@ python .\demo_env_awareness.py
 ```
 ## Quick start (Linux)
 
-## Quick Start (MacOS)
+## Quick start (MacOS)
 
 You should see output similar to:
 ```json
